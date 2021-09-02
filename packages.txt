@@ -1,2 +1,2 @@
 default-jre
-pip==21.2.4
+pip
